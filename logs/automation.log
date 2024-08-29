@@ -1,0 +1,50 @@
+15:21:09.863 [main]  INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.FailedReporter@43b4fe19: 14 ms
+15:21:09.879 [main]  INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.XMLReporter@165b8a71: 12 ms
+15:21:09.891 [main]  INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.EmailableReporter2@52500920: 12 ms
+15:21:09.899 [main]  INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4215838f: 8 ms
+15:21:09.899 [main]  INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.internal.ExitCodeListener@452ba1db: 0 ms
+15:24:08.197 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\ArtiR\eclipse-workspace\SwagLabs\master.xml
+
+15:24:11.345 [main]  INFO  testCases.TC_001_LoginPage_valid -*****Starting verifyLoginWithValidCredentials
+15:24:11.345 [main]  INFO  testCases.TC_001_LoginPage_valid -*******Opening login page***********
+15:24:11.363 [main]  INFO  testCases.TC_001_LoginPage_valid -**********Enterting username**********
+15:24:11.518 [main]  INFO  testCases.TC_001_LoginPage_valid -*************Enterting Password**************
+15:24:11.679 [main]  INFO  testCases.TC_001_LoginPage_valid -*****Clicking on login button*****************
+15:24:11.802 [main]  INFO  testCases.TC_001_LoginPage_valid -******test case execution is finished***********
+15:28:27.317 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\ArtiR\eclipse-workspace\SwagLabs\master.xml
+
+15:28:32.322 [main]  INFO  testCases.TC_001_LoginPage_valid -*****Starting verifyLoginWithValidCredentials
+15:28:32.322 [main]  INFO  testCases.TC_001_LoginPage_valid -*******Opening login page***********
+15:28:32.340 [main]  INFO  testCases.TC_001_LoginPage_valid -**********Enterting username**********
+15:28:32.494 [main]  INFO  testCases.TC_001_LoginPage_valid -*************Enterting Password**************
+15:28:32.624 [main]  INFO  testCases.TC_001_LoginPage_valid -*****Clicking on login button*****************
+15:28:32.760 [main]  INFO  testCases.TC_001_LoginPage_valid -******test case execution is finished***********
+15:30:17.651 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\ArtiR\eclipse-workspace\SwagLabs\master.xml
+
+15:30:22.457 [main]  INFO  testCases.TC_001_LoginPage_valid -*****Starting verifyLoginWithValidCredentials
+15:30:22.457 [main]  INFO  testCases.TC_001_LoginPage_valid -*******Opening login page***********
+15:30:22.480 [main]  INFO  testCases.TC_001_LoginPage_valid -**********Enterting username**********
+15:30:22.662 [main]  INFO  testCases.TC_001_LoginPage_valid -*************Enterting Password**************
+15:30:22.798 [main]  INFO  testCases.TC_001_LoginPage_valid -*****Clicking on login button*****************
+15:30:22.935 [main]  INFO  testCases.TC_001_LoginPage_valid -******test case execution is finished***********
+15:31:49.33 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\ArtiR\eclipse-workspace\SwagLabs\master.xml
+
+15:31:52.348 [main]  INFO  testCases.TC_001_LoginPage_valid -*****Starting verifyLoginWithValidCredentials
+15:31:52.348 [main]  INFO  testCases.TC_001_LoginPage_valid -*******Opening login page***********
+15:31:52.367 [main]  INFO  testCases.TC_001_LoginPage_valid -**********Enterting username**********
+15:31:52.574 [main]  INFO  testCases.TC_001_LoginPage_valid -*************Enterting Password**************
+15:31:52.695 [main]  INFO  testCases.TC_001_LoginPage_valid -*****Clicking on login button*****************
+15:31:57.866 [main]  INFO  testCases.TC_001_LoginPage_valid -******test case execution is finished***********
+15:41:50.806 [main]  INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\ArtiR\eclipse-workspace\SwagLabs\master.xml
+
+15:41:55.93 [main]  INFO  testCases.TC_001_LoginPage_valid -*****Starting verifyLoginWithValidCredentials
+15:41:55.93 [main]  INFO  testCases.TC_001_LoginPage_valid -*******Opening login page***********
+15:41:55.118 [main]  INFO  testCases.TC_001_LoginPage_valid -**********Enterting username**********
+15:41:55.318 [main]  INFO  testCases.TC_001_LoginPage_valid -*************Enterting Password**************
+15:41:55.447 [main]  INFO  testCases.TC_001_LoginPage_valid -*****Clicking on login button*****************
+15:42:00.607 [main]  INFO  testCases.TC_001_LoginPage_valid -******test case execution is finished***********
